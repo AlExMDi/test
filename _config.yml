@@ -1,0 +1,12 @@
+title: "DSI"
+email: alu0101463018@ull.edu.es
+description: >- # this means to ignore newlines until "baseurl:"
+  Aquí aparecerán todos los informes de DSI!
+baseurl: "/informes.github.io" 
+url: "/informes.github.io" 
+github_username:  alu0101463018
+
+sass:
+  sass_dir: _sass
+
+icon: /assets/img/icon.jpg
